@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SuperBancoImobiliario</string>
+    <string name="button_M">M</string>
+    <string name="button_K">K</string>
+    <string name="button_C">Credit</string>
+    <string name="button_D">Debit</string>
+    <string name="button_T">Transfer</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="player_3">Player 3</string>
+    <string name="player_4">Player 4</string>
+    <string name="player_5">Player 5</string>
+    <string name="player_6">Player 6</string>
+</resources>
